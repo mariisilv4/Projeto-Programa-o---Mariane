@@ -9,6 +9,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 25px;
+    background-color: brown;
 }
 
 .cartao {
@@ -31,4 +32,13 @@ body {
 
 main {
     flex: 1;
+}
+
+.cabecalho-link{
+color:brown;
+
+}
+
+h1 {
+color:aliceblue;
 }
